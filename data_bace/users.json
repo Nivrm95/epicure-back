@@ -1,0 +1,30 @@
+[
+    {
+      "email": "aaa@gmail.com",
+      "name": "aaa",
+      "lastName": "aaa",
+      "username": "aaa",
+      "password": 1234      
+    },
+    {
+      "email": "bbb@gmail.com",
+      "name": "bbb",
+      "lastName": "bbb",
+      "username": "bbb",
+      "password": 4321      
+    },
+    {
+      "email": "ccc@gmail.com",
+      "name": "ccc",
+      "lastName": "ccc",
+      "username": "ccc",
+      "password": 5678      
+    },
+    {
+      "email": "ddd@gmail.com",
+      "name": "ddd",
+      "lastName": "ddd",
+      "username": "ddd",
+      "password": 8765      
+    }
+ ]	
