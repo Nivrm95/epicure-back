@@ -8,3 +8,4 @@ router.post("/login", logInUser);
 router.get("/",getAllUsers );
 
 
+export default router;
