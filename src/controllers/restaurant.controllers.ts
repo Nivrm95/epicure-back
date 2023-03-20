@@ -20,7 +20,7 @@ import { addRestaurantByUser, deleteRestaurantById, getRestaurant,} from "../ser
       const rest = await deleteRestaurantById(id);
       return res
         .status(200)
-        .json( {success:true,msg:"Deleted",id:req.body.id});
+        .json( {success:true,msg:"Deleted",id:req.params.id});
     } catch (err: any) {
       console.log(err);
       throw err;
